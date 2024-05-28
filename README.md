@@ -1,5 +1,11 @@
 ![img](stairs.jpg)
-## Hi there 👋
+
+Con experiencia en el sector de la salud, en los últimos años me he formado en análisis de datos y ciencia de datos, encontrando la bioinformática como un puente entre mis habilidades anteriores y mis ambiciones actuales. Me motivan los cambios y los desafíos, y es por eso que busco trabajar codo a codo con un equipo que respalde mi deseo de crecer en esta nueva dirección.
+
+## ✉ Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauridangut)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauridangut@gmail.com)
 
 <!--
 **lauridangut/lauridangut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
