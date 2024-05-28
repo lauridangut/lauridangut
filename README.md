@@ -1,6 +1,5 @@
 ![img](stairs.jpg)
 
-## Laura Gutiérrez
 ### Data Scientist
 Con experiencia en el sector de la salud, en los últimos años me he formado en análisis de datos y ciencia de datos, encontrando la bioinformática como un puente entre mis habilidades anteriores y mis ambiciones actuales. Me motivan los cambios y los desafíos, y es por eso que busco trabajar codo a codo con un equipo que respalde mi deseo de crecer en esta nueva dirección.
 
