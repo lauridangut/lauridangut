@@ -1,3 +1,4 @@
+![img](stairs.jpg)
 ## Hi there 👋
 
 <!--
